@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000018149791",
+    "firebase_url": "https://e-transparency.firebaseio.com",
+    "project_id": "e-transparency",
+    "storage_bucket": "e-transparency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000018149791:android:4b84cca3ec081405",
+        "android_client_info": {
+          "package_name": "com.contrastive.com.etransparency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000018149791-36lkegkutdcqrm4f77vqe8f0prpbck7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfLxq3K1R9Xq-nMM4BXRUfwnilRMCEfMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
